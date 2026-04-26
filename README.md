@@ -115,7 +115,7 @@ AI-Financial-Risk-Engine/
 
 ---
 
-### 3️⃣ Risk Engine (Core Innovation 🔥)
+### 3️⃣ Risk Engine
 
 Combines:
 
@@ -242,12 +242,6 @@ To:
 * Improve financial awareness
 * Reduce default risk
 * Enable personalized financial insights
-
----
-
-## 💬 Resume Description
-
-Developed an AI-powered financial risk engine integrating user transaction data with financial news sentiment analysis to generate a composite risk score, supported by an interactive Tableau dashboard for data-driven insights.
 
 ---
 
