@@ -39,14 +39,19 @@ To produce:
 ## 🏗️ System Architecture
 
 Transaction Data + Financial News Data
+
 ⬇
 Data Cleaning & Processing (Python)
+
 ⬇
 Behavior Analysis + Sentiment Analysis
+
 ⬇
 Risk Fusion Engine
+
 ⬇
 Processed Dataset
+
 ⬇
 📊 Tableau Dashboard (Visualization Layer)
 
